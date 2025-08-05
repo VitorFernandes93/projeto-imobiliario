@@ -1,2 +1,2 @@
 # projeto-imobiliario
-Analise de dados de uma imobiliária
+Analise de dados de imoveis disponiveis no mercado.
